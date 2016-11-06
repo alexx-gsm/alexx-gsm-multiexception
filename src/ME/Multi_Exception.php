@@ -1,9 +1,6 @@
 <?php
 
-namespace App\Components;
-
-use App\TIterator;
-use App\TMagic;
+namespace ME;
 
 class MultiException
     extends \Exception
