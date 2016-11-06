@@ -1,6 +1,6 @@
 {
   "name": "alexx-gsm/multiexception",
   "autoload": {
-    "psr-4": {"Multi_": "src/"}
+    "psr-4": {"ME\\": "src/ME"}
   }
 }
